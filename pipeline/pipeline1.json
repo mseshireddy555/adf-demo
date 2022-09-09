@@ -2,7 +2,6 @@
 	"name": "pipeline1",
 	"properties":
 		"description": "developmnet updated",
-=======
 		"activities": [
 			{
 				"name": "Wait1",
