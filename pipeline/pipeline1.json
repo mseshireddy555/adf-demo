@@ -1,6 +1,6 @@
 {
 	"name": "pipeline1",
-	"properties":
+	"properties": {
 		"description": "developmnet updated",
 		"activities": [
 			{
@@ -15,4 +15,4 @@
 		],
 		"annotations": []
 	}
-
+}
