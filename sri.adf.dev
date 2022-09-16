@@ -1,0 +1,9 @@
+pipliline
+  stage A
+    Job 1
+     step 1.1
+     step 1.2
+    Job 2
+     step 2.1
+     step 2.2
+  stage B   
